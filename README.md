@@ -22,4 +22,4 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 | No. | Commit | Descripción |
 | ------ | ------ | ------ |
 | 1 | b41f54af4f0abbba29be612a6390ae5099f23f34  | Carga del modelo y reconocimiento facial |
-| 1 | c42f54af4f0abbba29be612a6390ae5099f23f34  | Creación de una lista de emoji´s.        |
+| 2 | c42f54af4f0abbba29be612a6390ae5099f23f34  | Creación de una lista de emoji´s.        |
