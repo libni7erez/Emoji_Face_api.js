@@ -4,7 +4,10 @@ Face-api.js es una libreria usada para el reconocimiento de rostos en imagenes o
 
 A continuación se muestra un ejemplo del uso de face-api.js
 
-[![Face Api](/readme_image/Face_api.JPG)](readme_image/Face_api.JPG)
+[![Face Api](/readme_image/emoji1.jpg)](readme_image/emoji1.jpg)
+
+[![Face Api](/readme_image/emoji_rostro.jpg)](readme_image/emoji_rostro.jpg)
+
 
 
 # Versiones
